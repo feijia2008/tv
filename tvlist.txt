@@ -26,3 +26,7 @@ CCTV-15,http://121.31.30.91:8085/ysten-business/live/cctv-15/index.m3u8
 天津卫视HD,http://121.31.30.91:8085/ysten-business/live/hdtianjinstv/index.m3u8
 湖北卫视HD,http://121.31.30.91:8085/ysten-business/live/hdhubeistv/index.m3u8
 广西卫视,http://121.31.30.91:8085/ysten-business/live/guangxistv/index.m3u8
+河北卫视,http://weblive.hebtv.com/live/hbws_bq/index.m3u8
+广西卫视,http://121.31.30.91:8085/ysten-business/live/guangxistv/index.m3u8
+澳亚卫视,http://stream.mastvnet.com/MASTV/sd/live.m3u8
+岭南戏曲,http://stream1.grtn.cn/lnxq/playlist.m3u8
