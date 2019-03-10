@@ -16,7 +16,6 @@ CCTV-10FHD,http://1.180.237.9/live.aishang.ctlcdn.com/00000110240251_1/encoder/0
 CCTV-12FHD,http://1.180.237.9/live.aishang.ctlcdn.com/00000110240252_1/encoder/0/playlist.m3u8
 CCTV-14FHD,http://1.180.237.9/live.aishang.ctlcdn.com/00000110240253_1/encoder/0/playlist.m3u8
 CETV-1FHD,http://1.180.237.9/live.aishang.ctlcdn.com/00000110240302_1/encoder/0/playlist.m3u8
-IPTV-5+FHD,http://1.180.237.9/live.aishang.ctlcdn.com/00000110240281_1/encoder/0/playlist.m3u8
 北京卫视FHD,http://1.180.237.9/live.aishang.ctlcdn.com/00000110240129_1/encoder/0/playlist.m3u8
 东方卫视FHD,http://1.180.237.9/live.aishang.ctlcdn.com/00000110240242_1/encoder/0/playlist.m3u8
 湖南卫视FHD,http://1.180.237.9/live.aishang.ctlcdn.com/00000110240130_1/encoder/0/playlist.m3u8
@@ -32,7 +31,6 @@ IPTV-5+FHD,http://1.180.237.9/live.aishang.ctlcdn.com/00000110240281_1/encoder/0
 河北卫视FHD,http://1.180.237.9/live.aishang.ctlcdn.com/00000110240317_1/encoder/0/playlist.m3u8
 贵州卫视FHD,http://1.180.237.9/live.aishang.ctlcdn.com/00000110240318_1/encoder/0/playlist.m3u8
 黑龙江卫视FHD,http://1.180.237.9/live.aishang.ctlcdn.com/00000110240131_1/encoder/0/playlist.m3u8
-熊猫频道FHD,http://1.180.237.9/live.aishang.ctlcdn.com/00000110240263_1/encoder/0/playlist.m3u8
 金鹰纪实FHD,http://1.180.237.9/live.aishang.ctlcdn.com/00000110240303_1/encoder/0/playlist.m3u8
 嘉佳卡通,http://1.180.237.9/live.aishang.ctlcdn.com/00000110240087_1/encoder/0/playlist.m3u8
 金鹰卡通,http://1.180.237.9/live.aishang.ctlcdn.com/00000110240050_1/encoder/0/playlist.m3u8
@@ -40,7 +38,7 @@ IPTV-5+FHD,http://1.180.237.9/live.aishang.ctlcdn.com/00000110240281_1/encoder/0
 CCTV-1HD,http://222.83.46.41/PLTV/88888888/224/3221226075/iptv243495.smil
 CCTV-2HD,http://221.203.83.34/PLTV/88888888/224/3221226584/10000100000000060000000000499223_0.smil
 CCTV-3,http://222.83.46.41/PLTV/88888888/224/3221226558/10000100000000060000000001371330_0.smil
-CCTV-4HD,http://221.203.83.35/PLTV/88888888/224/3221226601/10000100000000060000000000755997_0.smil
+CCTV-4HD,http://221.203.83.34/PLTV/88888888/224/3221226601/10000100000000060000000000755997_0.smil
 CCTV-13,http://222.83.46.41/PLTV/10/224/0/3221225569/3221225610.smil
 CCTV-14HD,http://221.203.83.34/PLTV/88888888/224/3221226529/10000100000000060000000000499222_0.smil
 湖南卫视HD,http://222.83.46.41/PLTV/88888888/224/3221226077/iptv244299.smil
