@@ -1,6 +1,0 @@
-热门频道
-凤凰中文,http://183.2.199.32/live/5/30/30089412ecb243f7b6a848a1e4d2a45f.m3u8?type=web.cloudplay&playback=0&,tvming-PhoenixTVHD
-凤凰资讯,http://183.2.199.30/live/5/30/08f9ed0afa5a40eab9f325ac8416a941.m3u8?type=web.cloudplay&playback=0&,tvming-PhoenixinfoTVHD
-凤凰中文HD,tvbus://1TJUwWZL69vSdf7krMe1TrEsBaFqT2x68KGsCYCXNjbyneehGT#sop://127.0.0.1:3912/776#http://123.249.76.157:10017/bysid/2,tvming-PhoenixTVHD
-凤凰资讯HD,tvbus://12ZeBZvGRxJemnpEGPwK7Mmy3Q8n6Y2VEFh623bZqWXiCVhYtC3#sop://127.0.0.1:3912/777#http://123.249.76.157:10017/bysid/1,tvming-PhoenixinfoTVHD
-CCTV-1综合,tvbus://12Uk583NEn2iFvWyfviU1F4ine6KFLyUnW8MfGKs#sop://127.0.0.1:3912/1#migu://608807420#http://121.31.30.91:8085/ysten-business/live/cctv-1/index.m3u8,cntv-cctv1
