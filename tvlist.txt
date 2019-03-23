@@ -23,8 +23,8 @@ CCTV-13,http://113.142.90.199/chinanet4-live.bestvcdn.com.cn/live/program/live/c
 山东卫视(bestv),http://113.142.90.199/chinanet4-live.bestvcdn.com.cn/live/program/live/sdwshd/4000000/d1.m3u8
 深圳卫视(bestv),http://113.142.90.199/chinanet4-live.bestvcdn.com.cn/live/program/live/szwshd/4000000/d1.m3u8
 天津卫视(bestv),http://113.142.90.199/chinanet4-live.bestvcdn.com.cn/live/program/live/tjwshd/4000000/d1.m3u8
-五星体育HD(bestv),http://113.142.90.199/chinanet4-live.bestvcdn.com.cn/live/program/live/ssty/4000000/d1.m3u8
-劲爆体育HD(bestv),http://113.142.90.199/chinanet4-live.bestvcdn.com.cn/live/program/live/jbtyhd/4000000/d1.m3u8
+五星体育(bestv),http://113.142.90.199/chinanet4-live.bestvcdn.com.cn/live/program/live/ssty/4000000/d1.m3u8
+劲爆体育(bestv),http://113.142.90.199/chinanet4-live.bestvcdn.com.cn/live/program/live/jbtyhd/4000000/d1.m3u8
 CCTV-1(爱上),http://1.180.237.9/live.aishang.ctlcdn.com/00000110240127_1/encoder/0/playlist.m3u8
 CCTV-2(爱上),http://1.180.237.9/live.aishang.ctlcdn.com/00000110240244_1/encoder/0/playlist.m3u8
 CCTV-3(爱上),http://1.180.237.9/live.aishang.ctlcdn.com/00000110240245_1/encoder/0/playlist.m3u8
@@ -93,7 +93,7 @@ CCTV-14(新疆),http://222.83.46.41/PLTV/88888888/224/3221226775/100001000000000
 江西卫视(新疆),http://222.83.46.41/PLTV/88888888/224/3221226803/10000100000000060000000002629832_0.smil
 CETV-1(新疆),http://222.83.46.41/PLTV/88888888/224/3221226669/10000100000000060000000002149407_0.smil
 纪实(新疆),http://222.83.46.41/PLTV/88888888/224/3221226692/10000100000000060000000002149406_0.smil
-新视觉HD,http://222.83.46.41/PLTV/88888888/224/3221226338/10000100000000060000000001106406_0.smil
+新视觉,http://222.83.46.41/PLTV/88888888/224/3221226338/10000100000000060000000001106406_0.smil
 动漫秀场(新疆),http://222.83.46.41/PLTV/88888888/224/3221226344/10000100000000060000000001106412_0.smil
 魅力音乐(新疆),http://222.83.46.41/PLTV/88888888/224/3221226355/10000100000000060000000001106411_0.smil
 寰宇地理(新疆),http://222.83.46.41/PLTV/88888888/224/3221226342/10000100000000060000000001106410_0.smil
