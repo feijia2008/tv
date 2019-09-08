@@ -1,9 +1,5 @@
-凤凰中文HD,http://yan.vip.cantonshop.cn/dszb/php/gangaotai.php?id=2
-凤凰资讯HD,http://yan.vip.cantonshop.cn/dszb/php/gangaotai.php?id=3
 凤凰资讯,rtmp://ivi.bupt.edu.cn:1935/livetv/fhzx
 凤凰中文,rtmp://ivi.bupt.edu.cn:1935/livetv/fhzw
-TVB翡翠台,http://yan.vip.cantonshop.cn/dszb/php/gangaotai.php?id=1&p=2
-澳亚卫视,http://stream.mastvnet.com/MASTV/sd/live.m3u8
 CCTV-1(爱上),http://1.180.237.9/live.aishang.ctlcdn.com/00000110240127_1/encoder/0/playlist.m3u8
 CCTV-2(爱上),http://1.180.237.9/live.aishang.ctlcdn.com/00000110240244_1/encoder/0/playlist.m3u8
 CCTV-3(爱上),http://1.180.237.9/live.aishang.ctlcdn.com/00000110240245_1/encoder/0/playlist.m3u8
