@@ -33,6 +33,10 @@ CCTV14,http://125.210.152.18:9090/live/CCTV14HD_H265.m3u8
 辽宁卫视,http://125.210.152.20:9090/live/LNWSHD_H265.m3u8
 凤凰资讯(南京电信),rtmp://218.94.137.117/iptv/fhzx
 凤凰中文(南京电信),rtmp://218.94.137.117/iptv/fhzw
+凤凰中文台HD,http://60.191.98.55:4022/udp/233.18.206.162:5140
+凤凰资讯台HD,http://60.191.98.55:4022/udp/233.18.206.163:5140
+CCTV4(centerch),http://live.centerch.com/cctv4hd.m3u8
+CCTV5(centerch),http://live.centerch.com/cctv5hd.m3u8
 CCTV-1(内蒙爱上),http://1.180.237.9/live.aishang.ctlcdn.com/00000110240127_1/encoder/0/playlist.m3u8
 CCTV-2(内蒙爱上),http://1.180.237.9/live.aishang.ctlcdn.com/00000110240244_1/encoder/0/playlist.m3u8
 CCTV-3(内蒙爱上),http://1.180.237.9/live.aishang.ctlcdn.com/00000110240245_1/encoder/0/playlist.m3u8
