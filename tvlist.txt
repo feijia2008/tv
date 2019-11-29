@@ -4,7 +4,7 @@
 南宁都市,http://gpic.top/php/qingkuai.php?programId=e0290ef0d35f453388c9342fd2ec6430
 南宁公共,http://gpic.top/php/qingkuai.php?programId=bdfc214b3aff48b288b504a06bbab678
 南宁影视,http://gpic.top/php/qingkuai.php?programId=f157349d126847d38ef8a257f59c9549
-广西新闻,http://stream.cdn.liangtv.cn/live/liangtv_gxnews/playlist.m3u8?wsSession=5a1c42b4131e8f133569acac-153434521968599&wsIPSercert=7905038a5d6c3462bfc5362e7ee76afb&wsMonitor=-1#http://stream.cdn.liangtv.cn/live/liangtv_gxnews/playlist.m3u8?wsSession=5a1c42b4131e8f133569acac-&wsIPSercert=7905038a5d6c3462bfc5362e7ee76afb&wsMonitor=-1#http://stream.cdn.liangtv.cn/live/liangtv_gxnews/playlist.m3u8?wsSession=5a1c42b4131e8f133569acac-u0026wsIPSercert=7905038a5d6c3462bfc5362e7ee76afbu0026wsMonitor=-1
+广西新闻,http://stream.cdn.liangtv.cn/live/liangtv_gxnews/playlist.m3u8?wsSession=5a1c42b4131e8f133569acac-153434521968599&wsIPSercert=7905038a5d6c3462bfc5362e7ee76afb&wsMonitor=-1
 广西综艺,http://stream.cdn.liangtv.cn/live/liangtv_gxzy/playlist.m3u8?wsSession=5a1c42b4131e8f133569acac-u0026wsIPSercert=7905038a5d6c3462bfc5362e7ee76afbu0026wsMonitor=-1
 广西科教,http://stream.cdn.liangtv.cn/live/liangtv_gxkj/playlist.m3u8?wsSession=5a1c42b4131e8f133569acac-153434534993965&wsIPSercert=7905038a5d6c3462bfc5362e7ee76afb&wsMonitor=-1
 广西都市,http://stream.cdn.liangtv.cn/live/liangtv_gxds/playlist.m3u8?wsSession=5a1c42b4131e8f133569acac-153434509735593&wsIPSercert=7905038a5d6c3462bfc5362e7ee76afb&wsMonitor=-1
